@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+table{
+    width: 70%;
+    margin: 0 auto;
+}
+table, tr, td, th{
+    border: 1px solid black;
+}
